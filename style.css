@@ -1,0 +1,41 @@
+.left {
+    width: 39%;
+    height: 90%;
+    float: left;
+    background-color: blue;
+}
+.right {
+    width: 61%;
+    height: 90%;
+    float: left;
+    background-color: turquoise;
+}
+.inline {
+    display: inline-block;
+    width: 200px;
+    text-align:center;
+    outline: 1px;
+    font-size: 48px;
+    color: white;
+    outline-color: black;
+    background-color:darkgray
+}
+.nav {
+    width: 100%;
+    background-color: lightgrey;
+    outline: 1px;
+    height: 10%;
+
+}
+
+.div1 {
+    float: top;
+    height: 30%;
+    color: orange;
+}
+
+.div2 {
+    float: top;
+    height: 70%;
+    color: green;
+}
